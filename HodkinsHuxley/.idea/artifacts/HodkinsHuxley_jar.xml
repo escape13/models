@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HodkinsHuxley:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HodkinsHuxley_jar</output-path>
+    <root id="archive" name="HodkinsHuxley.jar">
+      <element id="module-output" name="HodkinsHuxley" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/osp_csm.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
